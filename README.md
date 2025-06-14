@@ -68,5 +68,5 @@ pip install -r requirements.txt
 
 
 ---
-
+```
 Let me know if you also want a `requirements.txt` file auto-generated based on your dependencies, or badges for Python version, license, or build status.
